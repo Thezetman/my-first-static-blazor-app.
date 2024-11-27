@@ -65,6 +65,16 @@ main {
         top: 0;
         border-right: 2px solid #5c4d3c; 
     }
+    
+    .homepage-image {
+        display: block;
+        margin: 20px auto;
+        max-width: 100%;
+        height: auto;
+        border: 5px solid #5c4d3c; 
+        border-radius: 10px; 
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.7); 
+    }
 
     .top-row {
         position: sticky;
